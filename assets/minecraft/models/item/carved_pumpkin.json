@@ -8,6 +8,10 @@
 		{ "predicate": { "custom_model_data": 1 }, "model": "hats/witch_hat" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "hats/trix_hat" },
 		{ "predicate": { "custom_model_data": 3 }, "model": "hats/cone_hat" },
-		{ "predicate": { "custom_model_data": 4 }, "model": "hats/gummy_hat" }
+		{ "predicate": { "custom_model_data": 4 }, "model": "hats/gummy_hat" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "hats/cowpony_hat" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "hats/crown_hat" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "hats/reasonable_tophat_hat" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "hats/unreasonable_tophat_hat" }
 	]
 }
