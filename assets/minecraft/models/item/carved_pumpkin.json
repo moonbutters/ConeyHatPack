@@ -12,6 +12,7 @@
 		{ "predicate": { "custom_model_data": 5 }, "model": "hats/cowpony_hat" },
 		{ "predicate": { "custom_model_data": 6 }, "model": "hats/crown_hat" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "hats/reasonabletophat_hat" },
-		{ "predicate": { "custom_model_data": 8 }, "model": "hats/unreasonabletophat_hat" }
+		{ "predicate": { "custom_model_data": 8 }, "model": "hats/unreasonabletophat_hat" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "hats/brownushanka_hat" }
 	]
 }
