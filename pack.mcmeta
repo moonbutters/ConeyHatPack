@@ -1,6 +1,14 @@
 {
+<<<<<<< Updated upstream
     "pack": {
         "pack_format": 15,
         "description": "Coney Poney Hat Pack"
     }
 }
+=======
+   "pack":{
+      "pack_format": 15,
+      "description":"Coney Poney Hat Pack"
+   }
+}
+>>>>>>> Stashed changes
