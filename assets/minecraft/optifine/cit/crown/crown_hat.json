@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "pumpkin",
 	"textures": {
-		"0": "hat_textures/crown",
-		"particle": "hat_textures/crown"
+		"0": "crown",
+		"particle": "crown"
 	},
 	"elements": [
 		{

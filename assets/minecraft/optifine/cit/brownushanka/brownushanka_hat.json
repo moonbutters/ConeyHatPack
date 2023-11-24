@@ -3,8 +3,8 @@
 	"parent": "pumpkin",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "hat_textures/ushanka",
-		"particle": "hat_textures/ushanka"
+		"0": "ushanka",
+		"particle": "ushanka"
 	},
 	"elements": [
 		{

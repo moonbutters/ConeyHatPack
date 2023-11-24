@@ -3,7 +3,7 @@
 	"parent": "pumpkin",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "hat_textures/trixhat1"
+		"1": "trixhat1"
 	},
 	"elements": [
 		{

@@ -3,8 +3,8 @@
 	"parent": "pumpkin",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "hat_textures/tophat",
-		"particle": "hat_textures/tophat"
+		"0": "tophat",
+		"particle": "tophat"
 	},
 	"elements": [
 		{
